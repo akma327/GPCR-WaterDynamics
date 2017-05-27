@@ -1,0 +1,34 @@
+Traceback (most recent call last):
+  File "/share/PI/rondror/software/miniconda/bin/jupyter-notebook", line 4, in <module>
+    from notebook.notebookapp import main
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/notebook/notebookapp.py", line 61, in <module>
+    from .services.contents.manager import ContentsManager
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/notebook/services/contents/manager.py", line 16, in <module>
+    from nbformat import sign, validate, ValidationError
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/nbformat/__init__.py", line 33, in <module>
+    from .validator import validate, ValidationError
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/nbformat/validator.py", line 10, in <module>
+    from jsonschema import ValidationError
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/jsonschema/__init__.py", line 18, in <module>
+    from jsonschema.validators import (
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/jsonschema/validators.py", line 8, in <module>
+    import requests
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/requests/__init__.py", line 52, in <module>
+    from .packages.urllib3.contrib import pyopenssl
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/requests/packages/urllib3/contrib/pyopenssl.py", line 49, in <module>
+    from cryptography.hazmat.backends.openssl import backend as openssl_backend
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/cryptography/hazmat/backends/openssl/__init__.py", line 7, in <module>
+    from cryptography.hazmat.backends.openssl.backend import backend
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/cryptography/hazmat/backends/openssl/backend.py", line 31, in <module>
+    from cryptography.hazmat.backends.openssl.dsa import (
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/cryptography/hazmat/backends/openssl/dsa.py", line 9, in <module>
+    from cryptography.hazmat.backends.openssl.utils import (
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/cryptography/hazmat/backends/openssl/utils.py", line 10, in <module>
+    from cryptography.hazmat.primitives.asymmetric.utils import Prehashed
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/cryptography/hazmat/primitives/asymmetric/utils.py", line 9, in <module>
+    from pyasn1.codec.der import decoder, encoder
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/pyasn1/codec/der/encoder.py", line 3, in <module>
+    from pyasn1.codec.cer import encoder
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/site-packages/pyasn1/codec/cer/encoder.py", line 2, in <module>
+    from pyasn1.type import univ
+KeyboardInterrupt
