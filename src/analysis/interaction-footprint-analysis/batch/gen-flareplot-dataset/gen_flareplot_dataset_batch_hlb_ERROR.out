@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 103, in simulationEvobundleDriver
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 103, in simulationEvobundleDriver
+    os.makedirs(OUT_DIR)
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/os.py", line 157, in makedirs
+    os.makedirs(OUT_DIR)
+  File "/share/PI/rondror/software/miniconda/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: '/scratch/PI/rondror/akma327/DynamicNetworks/data/crystal-analysis/interaction-footprint-analysis/simulation-evobundle/flareplot-dataset/hlb'
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: '/scratch/PI/rondror/akma327/DynamicNetworks/data/crystal-analysis/interaction-footprint-analysis/simulation-evobundle/flareplot-dataset/hlb'

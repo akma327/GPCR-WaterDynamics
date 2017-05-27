@@ -1,0 +1,168 @@
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
+Traceback (most recent call last):
+  File "simulation_evobundle.py", line 142, in <module>
+    simulationEvobundleDriver(EXP_COND_DICT_FOLDER, EXP_COND_PDB, OUTPUT_FILE, NODE_FLAG)
+  File "simulation_evobundle.py", line 107, in simulationEvobundleDriver
+    totalFrames, interactionDict = fillInteractionKeys(interaction_dict_files, EXP_COND_PDB_DICT, NODE_FLAG)
+  File "simulation_evobundle.py", line 96, in fillInteractionKeys
+    return totalFrames, interactionDict
+UnboundLocalError: local variable 'totalFrames' referenced before assignment
