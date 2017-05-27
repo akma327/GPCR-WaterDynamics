@@ -1,0 +1,7 @@
+# Need to find resi for 3x32 for each pdb based on the uniprot
+
+
+cmd.load(“4DKL.pdb")
+stored.list=[]
+cmd.iterate("(byres resi 147 around 4.5 and organic)","stored.list.append((resi,resn))")
+print stored.list
