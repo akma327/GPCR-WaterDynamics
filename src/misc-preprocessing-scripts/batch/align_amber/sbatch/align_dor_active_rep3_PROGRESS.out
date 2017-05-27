@@ -1,0 +1,1680 @@
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114658MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 21
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_0/Prod_0_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_0/Prod_0_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_0/Prod_0_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_0/Prod_0_reimaged.dcd.
+Time for wrapAlign.py = 0.2
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114658MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 174
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_1/Prod_1_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_1/Prod_1_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_1/Prod_1_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_1/Prod_1_reimaged.dcd.
+Time for wrapAlign.py = 0.6
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114632MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 250
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_2/Prod_2_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_2/Prod_2_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_2/Prod_2_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_2/Prod_2_reimaged.dcd.
+Time for wrapAlign.py = 0.8
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114597MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 254
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_3/Prod_3_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_3/Prod_3_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_3/Prod_3_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_3/Prod_3_reimaged.dcd.
+Time for wrapAlign.py = 0.81
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114587MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 254
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_4/Prod_4_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_4/Prod_4_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_4/Prod_4_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_4/Prod_4_reimaged.dcd.
+Time for wrapAlign.py = 0.8
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114584MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 256
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_5/Prod_5_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_5/Prod_5_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_5/Prod_5_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_5/Prod_5_reimaged.dcd.
+Time for wrapAlign.py = 0.8
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114582MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 256
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_6/Prod_6_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_6/Prod_6_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_6/Prod_6_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_6/Prod_6_reimaged.dcd.
+Time for wrapAlign.py = 0.82
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114581MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 244
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_7/Prod_7_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_7/Prod_7_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_7/Prod_7_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_7/Prod_7_reimaged.dcd.
+Time for wrapAlign.py = 0.78
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114578MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 244
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_8/Prod_8_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_8/Prod_8_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_8/Prod_8_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_8/Prod_8_reimaged.dcd.
+Time for wrapAlign.py = 0.78
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114577MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 244
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_9/Prod_9_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_9/Prod_9_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_9/Prod_9_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_9/Prod_9_reimaged.dcd.
+Time for wrapAlign.py = 0.77
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114574MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 244
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_10/Prod_10_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_10/Prod_10_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_10/Prod_10_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_10/Prod_10_reimaged.dcd.
+Time for wrapAlign.py = 0.77
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114566MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 251
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_11/Prod_11_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_11/Prod_11_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_11/Prod_11_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_11/Prod_11_reimaged.dcd.
+Time for wrapAlign.py = 0.8
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114571MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 244
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_12/Prod_12_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_12/Prod_12_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_12/Prod_12_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_12/Prod_12_reimaged.dcd.
+Time for wrapAlign.py = 0.76
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114570MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 245
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_13/Prod_13_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_13/Prod_13_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_13/Prod_13_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_13/Prod_13_reimaged.dcd.
+Time for wrapAlign.py = 0.78
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114568MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 251
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_14/Prod_14_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_14/Prod_14_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_14/Prod_14_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_14/Prod_14_reimaged.dcd.
+Time for wrapAlign.py = 0.81
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114549MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 248
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_15/Prod_15_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_15/Prod_15_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_15/Prod_15_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_15/Prod_15_reimaged.dcd.
+Time for wrapAlign.py = 0.78
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114568MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 243
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_16/Prod_16_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_16/Prod_16_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_16/Prod_16_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_16/Prod_16_reimaged.dcd.
+Time for wrapAlign.py = 0.78
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114567MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 245
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_17/Prod_17_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_17/Prod_17_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_17/Prod_17_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_17/Prod_17_reimaged.dcd.
+Time for wrapAlign.py = 0.79
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114579MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 275
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_18/Prod_18_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_18/Prod_18_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_18/Prod_18_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_18/Prod_18_reimaged.dcd.
+Time for wrapAlign.py = 0.85
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114577MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 276
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_19/Prod_19_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_19/Prod_19_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_19/Prod_19_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_19/Prod_19_reimaged.dcd.
+Time for wrapAlign.py = 0.87
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114576MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 248
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_20/Prod_20_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_20/Prod_20_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_20/Prod_20_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_20/Prod_20_reimaged.dcd.
+Time for wrapAlign.py = 0.78
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114573MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 276
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_21/Prod_21_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_21/Prod_21_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_21/Prod_21_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_21/Prod_21_reimaged.dcd.
+Time for wrapAlign.py = 0.86
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114546MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 244
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_22/Prod_22_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_22/Prod_22_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_22/Prod_22_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_22/Prod_22_reimaged.dcd.
+Time for wrapAlign.py = 0.77
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114566MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 211
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_23/Prod_23_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_23/Prod_23_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_23/Prod_23_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_23/Prod_23_reimaged.dcd.
+Time for wrapAlign.py = 0.7
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114550MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 211
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_24/Prod_24_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_24/Prod_24_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_24/Prod_24_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_24/Prod_24_reimaged.dcd.
+Time for wrapAlign.py = 0.69
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114567MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 215
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_25/Prod_25_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_25/Prod_25_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_25/Prod_25_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_25/Prod_25_reimaged.dcd.
+Time for wrapAlign.py = 0.69
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114565MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 215
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_26/Prod_26_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_26/Prod_26_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_26/Prod_26_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_26/Prod_26_reimaged.dcd.
+Time for wrapAlign.py = 0.7
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114548MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 216
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_27/Prod_27_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_27/Prod_27_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_27/Prod_27_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_27/Prod_27_reimaged.dcd.
+Time for wrapAlign.py = 0.71
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114565MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 214
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_28/Prod_28_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_28/Prod_28_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_28/Prod_28_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_28/Prod_28_reimaged.dcd.
+Time for wrapAlign.py = 0.69
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114546MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 242
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_29/Prod_29_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_29/Prod_29_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_29/Prod_29_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_29/Prod_29_reimaged.dcd.
+Time for wrapAlign.py = 0.77
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114564MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 242
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_30/Prod_30_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_30/Prod_30_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_30/Prod_30_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_30/Prod_30_reimaged.dcd.
+Time for wrapAlign.py = 0.78
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114568MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 275
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_31/Prod_31_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_31/Prod_31_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_31/Prod_31_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_31/Prod_31_reimaged.dcd.
+Time for wrapAlign.py = 0.86
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114565MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 295
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_32/Prod_32_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_32/Prod_32_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_32/Prod_32_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_32/Prod_32_reimaged.dcd.
+Time for wrapAlign.py = 0.92
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114563MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 284
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_33/Prod_33_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_33/Prod_33_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_33/Prod_33_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_33/Prod_33_reimaged.dcd.
+Time for wrapAlign.py = 0.89
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114558MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 274
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_34/Prod_34_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_34/Prod_34_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_34/Prod_34_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_34/Prod_34_reimaged.dcd.
+Time for wrapAlign.py = 0.83
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114560MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 285
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_35/Prod_35_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_35/Prod_35_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_35/Prod_35_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_35/Prod_35_reimaged.dcd.
+Time for wrapAlign.py = 0.88
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114551MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 284
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_36/Prod_36_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_36/Prod_36_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_36/Prod_36_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_36/Prod_36_reimaged.dcd.
+Time for wrapAlign.py = 0.88
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114533MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 285
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_37/Prod_37_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_37/Prod_37_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_37/Prod_37_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_37/Prod_37_reimaged.dcd.
+Time for wrapAlign.py = 0.88
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114554MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 288
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_38/Prod_38_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_38/Prod_38_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_38/Prod_38_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_38/Prod_38_reimaged.dcd.
+Time for wrapAlign.py = 0.9
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114544MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 55451
+Info)    Bonds: 44654
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 11506
+Info)    Waters: 11005
+Warning) Unusual bond between residues:  35 (none) and 36 (protein)
+Warning) Unusual bond between residues:  338 (protein) and 339 (none)
+Info)    Segments: 6
+Info)    Fragments: 11184   Protein: 1   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 55451
+netcdfplugin) AMBER: frame dimension: 292
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_39/Prod_39_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/DOR-inactive-naltrindole-unpublished/condition-naltrindole-bound/rep_3/Prod_39/Prod_39_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_39/Prod_39_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/DOR-inactive-naltrindole-unpublished/rep_3/Prod_39/Prod_39_reimaged.dcd.
+Time for wrapAlign.py = 0.9

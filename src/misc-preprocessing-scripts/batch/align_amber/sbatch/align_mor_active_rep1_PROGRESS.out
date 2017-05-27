@@ -1,0 +1,334 @@
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114365MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 53123
+Info)    Bonds: 44031
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 9444
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 9164   Protein: 2   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 53123
+netcdfplugin) AMBER: frame dimension: 81
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_0/Prod_0_reimaged.nc
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_0/Prod_0_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_0/Prod_0_reimaged.dcd for writing.
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_0/Prod_0_reimaged.dcd.
+Time for wrapAlign.py = 0.32
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114359MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 53123
+Info)    Bonds: 44031
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 9444
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 9164   Protein: 2   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 53123
+netcdfplugin) AMBER: frame dimension: 6244
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_1/Prod_1_reimaged.nc
+Info) Coordinate I/O rate 749.6 frames/sec, 455 MB/sec, 8.3 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_1/Prod_1_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_1/Prod_1_reimaged.dcd for writing.
+Info) Coordinate I/O rate 651.4 frames/sec, 395 MB/sec, 9.6 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_1/Prod_1_reimaged.dcd.
+Time for wrapAlign.py = 14.92
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114348MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 53123
+Info)    Bonds: 44031
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 9444
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 9164   Protein: 2   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 53123
+netcdfplugin) AMBER: frame dimension: 7487
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_2/Prod_2_reimaged.nc
+Info) Coordinate I/O rate 817.2 frames/sec, 496 MB/sec, 9.2 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_2/Prod_2_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_2/Prod_2_reimaged.dcd for writing.
+Info) Coordinate I/O rate 608.2 frames/sec, 369 MB/sec, 12.3 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_2/Prod_2_reimaged.dcd.
+Time for wrapAlign.py = 18.1
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114123MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 53123
+Info)    Bonds: 44031
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 9444
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 9164   Protein: 2   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 53123
+netcdfplugin) AMBER: frame dimension: 4916
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_3/Prod_3_reimaged.nc
+Info) Coordinate I/O rate 792.9 frames/sec, 481 MB/sec, 6.2 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_3/Prod_3_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_3/Prod_3_reimaged.dcd for writing.
+Info) Coordinate I/O rate 590.9 frames/sec, 358 MB/sec, 8.3 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_3/Prod_3_reimaged.dcd.
+Time for wrapAlign.py = 12.19
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114114MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 53123
+Info)    Bonds: 44031
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 9444
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 9164   Protein: 2   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 53123
+netcdfplugin) AMBER: frame dimension: 7465
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_4/Prod_4_reimaged.nc
+Info) Coordinate I/O rate 797.2 frames/sec, 484 MB/sec, 9.4 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_4/Prod_4_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_4/Prod_4_reimaged.dcd for writing.
+Info) Coordinate I/O rate 646.0 frames/sec, 392 MB/sec, 11.6 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_4/Prod_4_reimaged.dcd.
+Time for wrapAlign.py = 18.43
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114154MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 53123
+Info)    Bonds: 44031
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 9444
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 9164   Protein: 2   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 53123
+netcdfplugin) AMBER: frame dimension: 7540
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_5/Prod_5_reimaged.nc
+Info) Coordinate I/O rate 826.1 frames/sec, 501 MB/sec, 9.1 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_5/Prod_5_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_5/Prod_5_reimaged.dcd for writing.
+Info) Coordinate I/O rate 673.3 frames/sec, 408 MB/sec, 11.2 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_5/Prod_5_reimaged.dcd.
+Time for wrapAlign.py = 18.25
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 113886MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 53123
+Info)    Bonds: 44031
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 9444
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 9164   Protein: 2   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 53123
+netcdfplugin) AMBER: frame dimension: 7457
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_6/Prod_6_reimaged.nc
+Info) Coordinate I/O rate 758.6 frames/sec, 460 MB/sec, 9.8 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_6/Prod_6_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_6/Prod_6_reimaged.dcd for writing.
+Info) Coordinate I/O rate 549.4 frames/sec, 333 MB/sec, 13.6 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_6/Prod_6_reimaged.dcd.
+Time for wrapAlign.py = 18.55
+Info) VMD for LINUXAMD64, version 1.9.3a3 (April 28, 2016)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 16 CPUs detected.
+Info) Free system memory: 114330MB (88%)
+Info) Using plugin pdb for structure file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Using plugin pdb for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/step5_assembly.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 53123
+Info)    Bonds: 44031
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 9444
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 9164   Protein: 2   Nucleic: 0
+netcdfplugin) conventions: 'AMBER'
+netcdfplugin) trajectory follows AMBER conventions version '1.0'
+netcdfplugin) AMBER: program 'cpptraj'
+netcdfplugin) AMBER: program version 'V15.0'
+netcdfplugin) AMBER: title 'Cpptraj Generated trajectory'
+netcdfplugin) AMBER: application 'AMBER'
+netcdfplugin) AMBER: spatial dimension: 3
+netcdfplugin) AMBER: atom dimension: 53123
+netcdfplugin) AMBER: frame dimension: 6875
+netcdfplugin) AMBER: coordinates units: 'angstrom'
+netcdfplugin) AMBER trajectory contains periodic cell information
+netcdfplugin) AMBER: cell lengths units: 'angstrom'
+netcdfplugin) AMBER: cell angles units: 'degree'
+Info) Using plugin netcdf for coordinates from file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_7/Prod_7_reimaged.nc
+Info) Coordinate I/O rate 831.2 frames/sec, 504 MB/sec, 8.3 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/InteractionOutput/MOR-inactive-bFNA-nature2015/condition-bFNA-bound/rep_1/Prod_7/Prod_7_reimaged.nc.
+Info) Opened coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_7/Prod_7_reimaged.dcd for writing.
+Info) Coordinate I/O rate 572.0 frames/sec, 347 MB/sec, 12.0 sec
+Info) Finished with coordinate file /scratch/PI/rondror/akma327/DynamicNetworks/data/DynamicNetworksOutput/AlignedAmberTraj/MOR-inactive-bFNA-nature2015/rep_1/Prod_7/Prod_7_reimaged.dcd.
+Time for wrapAlign.py = 16.68
